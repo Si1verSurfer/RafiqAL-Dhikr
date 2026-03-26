@@ -11,7 +11,13 @@ For the Arabic-first guide with screenshots, see the [app repository README](htt
 
 **Stack:** Flutter · Dart 3.9+ · GetX · Material · `quran_library` · Aladhan API · local notifications & widgets  
 
-[Google Play](https://play.google.com/store/apps/details?id=com.rafiqaldhikr.rafiqaldhikr&hl=ar) · [App Store](https://apps.apple.com/eg/app/%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id6759368731) · [Issues](https://github.com/Si1verSurfer/Rafiq-Al-Dhikr/issues)
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.rafiqaldhikr.rafiqaldhikr&amp;hl=ar"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ar_badge_web_generic.png" alt="احصل عليه من Google Play" height="56"></a>
+  &nbsp;&nbsp;
+  <a href="https://apps.apple.com/eg/app/%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id6759368731"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="56"></a>
+</p>
+
+[Issues](https://github.com/Si1verSurfer/Rafiq-Al-Dhikr/issues)
 
 </div>
 
