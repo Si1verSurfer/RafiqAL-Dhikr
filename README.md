@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rafiq Al-Dhikr — app logo](app_icon.png)
+<img src="app_icon.png" alt="Rafiq Al-Dhikr — app logo" width="120" />
 
 # Rafiq Al-Dhikr
 
