@@ -7,7 +7,7 @@
 **Arabic:** رفيق الذكر
 
 **Portfolio document** — detailed feature breakdown and how each area was implemented.  
-For the Arabic-first guide with screenshots, see [README.md](README.md).
+For the Arabic-first guide with screenshots, see the [app repository README](https://github.com/Si1verSurfer/Rafiq-Al-Dhikr/blob/main/README.md).
 
 **Stack:** Flutter · Dart 3.9+ · GetX · Material · `quran_library` · Aladhan API · local notifications & widgets  
 
@@ -323,7 +323,7 @@ flutter run
 
 **Release:** `flutter build apk` · `flutter build appbundle` · `flutter build ios` — bump **`version:`** in `pubspec.yaml` before store uploads.
 
-**License:** MIT (see [README.md](README.md); add a root `LICENSE` file for a single canonical copy if desired).
+**License:** MIT (see the [app repository README](https://github.com/Si1verSurfer/Rafiq-Al-Dhikr/blob/main/README.md); add a root `LICENSE` file for a single canonical copy if desired).
 
 ---
 
